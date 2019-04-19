@@ -12,4 +12,6 @@ The *readme* file is being changed on the local machine, with an existing projec
 ### Another small change
 
 This will assess whether we have credential issues.
-"challenger, edit via the shell" 
+
+
+> No need for that challenger line.
