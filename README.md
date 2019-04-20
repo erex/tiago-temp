@@ -15,3 +15,6 @@ This will assess whether we have credential issues.
 
 
 > No need for that challenger line.
+
+### Now on home computer
+GitKraken being used because RStudio is not quite up to speed as yet, might require a reboot.
