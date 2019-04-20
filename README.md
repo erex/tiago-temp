@@ -21,3 +21,7 @@ GitKraken being used because RStudio is not quite up to speed as yet, might requ
 
 #### Here we are
 Now on home machine, running RStudio.  Having opened .Rproj file, now presented with Git tab.  This edit of file taking place in RStudio.
+
+
+## Second (third) home edit [second edit using RStudio]
+Edit for purposes of seeing whether second push generates credentials challenge (or if credentials have been saved)
