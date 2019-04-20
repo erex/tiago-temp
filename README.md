@@ -18,3 +18,6 @@ This will assess whether we have credential issues.
 
 ### Now on home computer
 GitKraken being used because RStudio is not quite up to speed as yet, might require a reboot.
+
+#### Here we are
+Now on home machine, running RStudio.  Having opened .Rproj file, now presented with Git tab.  This edit of file taking place in RStudio.
